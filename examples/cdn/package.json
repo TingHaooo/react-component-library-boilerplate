@@ -1,0 +1,15 @@
+{
+  "name": "test-component-example-cdn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "dependencies": {
+    "test-component": "link:1.0.0"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
